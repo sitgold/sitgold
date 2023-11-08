@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @sitgold. A aquatic NEKO and also a newcomer!
-- 👀 I’m interested in game mod making
-- 🌱 I’m currently learning Python (snek snek)
-- 📫 Currently have no contact intentions
+WTF
 
 <!---
 sitgold/sitgold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
